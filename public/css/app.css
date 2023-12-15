@@ -1,0 +1,52 @@
+body {
+    background-color:deepskyblue;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+    font-family:cursive;
+}
+
+h3 {
+    text-align: center;
+    padding: 15px;
+    color: darkblue;
+    font-family: cursive;
+}
+
+.mb-3 {
+    padding: 3px;
+    font-family: cursive;
+}
+
+.form {
+    background-color:lightblue;
+    border-style: double;
+    border-color: blue;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    height: 123px;
+    width: 300px;
+    padding: 20px;
+}
+
+.mb-4 {
+    text-align: center;
+    padding: 15px;
+}
+
+.table {
+    background-color: lightblue;
+}
+
+.btn-h {
+    background-color: rgb(175, 205, 231);
+    border-color:blue;
+    border-style: double;
+}
+
+thead {
+    background-color: rgb(206, 213, 225);
+}
